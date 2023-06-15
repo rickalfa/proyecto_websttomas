@@ -4,6 +4,7 @@
  <!-- #Head region -->
   <title> Content Page  </title>
   <link rel="stylesheet" href="../estilos/estilosbase.css">
+  <?php  include("head.php");     ?> 
 
 <!-- #Head endregion -->
 

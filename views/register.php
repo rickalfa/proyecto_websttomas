@@ -5,6 +5,8 @@
   <title> register Page  </title>
    <link rel="stylesheet" href="../estilos/estilosbase.css">
 
+   <?php  include("head.php");     ?> 
+
 <!-- #Head endregion -->
 
  </head>
@@ -68,6 +70,12 @@
 
 
 
+
+<!-- # Footer region -->
+
+<?php  include("footer.php");     ?> 
+
+<!-- # Footer endregion -->
 
 
 
