@@ -75,18 +75,18 @@
  <!-- # container-fluid endregion -->
 
 
-
-
- </body>
-<!-- # Body endregion -->
-
-
-
 <!-- # Footer region -->
 
 <?php  include("footer.php");     ?> 
 
 <!-- # Footer endregion -->
+
+
+
+
+ </body>
+<!-- # Body endregion -->
+
 
 
 

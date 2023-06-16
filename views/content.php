@@ -19,15 +19,20 @@
     <h1> Content Page </h1>
 
 
+
+
+    
+    <!-- # Footer region -->    
+
+    <?php  include("footer.php");     ?>     
+
+    <!-- # Footer endregion -->
+
+
+
+
  </body>
 <!-- # Body endregion -->
-
-
-
-
-
-
-
 
 
 

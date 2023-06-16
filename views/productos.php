@@ -21,9 +21,6 @@
 
 <h1> productos </h1>
 
- </body>
-<!-- # Body endregion -->
-
 
 
 <!-- # Footer region -->
@@ -35,7 +32,8 @@
 
 
 
-
+ </body>
+<!-- # Body endregion -->
 
 
 
